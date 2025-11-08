@@ -1,3 +1,3 @@
 git add .
-git commit -m "transitiontest"
+git commit -m "traadst"
 git push
