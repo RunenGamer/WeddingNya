@@ -1,3 +1,3 @@
 git add .
-git commit -m "traadst"
+git commit -m "thate"
 git push
